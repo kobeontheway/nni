@@ -1,4 +1,4 @@
-# Dockerfile
+# Dockerfile 
 
 ## 1. 说明
 
@@ -15,7 +15,7 @@
     NNI v0.7
     
 
-此 Dockerfile 可作为定制的参考。
+You can take this Dockerfile as a reference for your own customized Dockerfile.
 
 ## 2.如何生成和运行
 
